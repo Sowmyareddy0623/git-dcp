@@ -1,2 +1,2 @@
-# git-dcp
+# dcp
 Digital Consulting Project
